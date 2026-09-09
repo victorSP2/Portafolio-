@@ -1,2 +1,2 @@
 # Portafolio-
-Hola, soy Victor Joel Santos Parra. Soy estudiante de Ingeniería en Ciencia de Datos en la Universidad Veracruzana. Me especializo en análisis estadístico, modelado predictivo, bases de datos relacionales y en transformar datos crudos en decisiones estratégicas a través de la visualización.
+Hola, soy Victor Joel Santos Parra. Soy estudiante de Ingeniería en Ciencia de Datos en la Universidad Veracruzana. Me apasiona transformar datos complejos en decisiones estratégicas mediante el análisis estadístico, el modelado predictivo y la creación de visualizaciones interactivas. Mi enfoque combina el rigor científico con herramientas como Python, R y SQL para resolver problemas en áreas como el rendimiento deportivo y el impacto económico
